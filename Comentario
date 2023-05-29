@@ -1,0 +1,2 @@
+Novo comentário adicionado por *{{comment.author.displayName}}* na fila *{{triggerIssue.Request Type.requestType.name}}*:
+{{triggerIssue.comment.last.body}}
